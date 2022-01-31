@@ -18,9 +18,14 @@
   },
   "homepage": "https://github.com/pterodactylsam/hexlet-js#readme",
   "dependencies": {
+    "jest": "^27.4.7",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^26.0.0",
     "nodejs-package": "^0.0.3",
     "prettier": "^2.5.1"
   }
